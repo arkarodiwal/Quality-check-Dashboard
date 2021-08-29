@@ -1,6 +1,6 @@
 # Quality-check-Dashboard
 
-### Primary Goal- 
+### Primary Goal: 
 - To create a quality check dashboard on manufacturing dataset providing insights on defects and quality scores.
 
 ### Solution:
